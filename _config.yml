@@ -21,7 +21,7 @@ timezone: Europe/Berlin
 
 title: Bekir                          # the main title
 
-tagline: Code in meiner Freizeit   # it will display as the sub-title
+tagline: Programmiere in meiner Freizeit   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Persönliche Webseite
