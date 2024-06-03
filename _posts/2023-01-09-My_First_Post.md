@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "Mein erster Blog Post"
 date: 2023-01-09 
 categories: [Blog, First]
 img_path: ../../assets/img/
