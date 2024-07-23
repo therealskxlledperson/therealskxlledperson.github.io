@@ -15,6 +15,11 @@
   icon: 'fas fa-rss'
   noblank: true
 
+- 
+  type: discord
+  icon: 'fab fa-discord'
+  url: 'https://discordapp.com/users/735556253111156859'
+
 # Uncomment and complete the url below to enable more contact options
 # -
 #   type: mastodon
