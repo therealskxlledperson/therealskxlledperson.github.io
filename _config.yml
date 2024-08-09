@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://thebekir.de'
 
 github:
-  username: 535i           # change to your github username
+  username:           # change to your github username
 
 twitter:
   username:           # change to your twitter username
