@@ -4,7 +4,7 @@ date: 2024-09-07 23:08:00 +0200
 categories: [Tutorial, Namaz]
 img_path: ../../assets/img/
 tags: [namaz]
-image: /assets/img/post-cover/prayer.jpg
+image: /post-cover/prayer.jpg
 ---
 
 > Yakında
