@@ -6,8 +6,7 @@ img_path: ../../assets/img/
 tags: [namaz]
 image:
   path: /post-cover/prayer.jpg
-  lqip: /post-cover/prayer.jpg
-  alt: Designed by [Freepik](www.freepik.com)
+  alt: Designed by www.freepik.com
 ---
 
 > Yakında
