@@ -9,5 +9,5 @@ image:
   alt: Designed by www.freepik.com
 ---
 
-> Yakında
+> Yakında sizlerle paylaşacağım.
 {: .prompt-info }
