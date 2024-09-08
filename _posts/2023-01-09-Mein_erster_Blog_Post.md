@@ -3,7 +3,7 @@ title: "Mein erster Blog Post"
 date: 2023-01-09 
 categories: [Blog, First]
 img_path: ../../assets/img/
-tags: [first]     # TAG names should always be lowercase
+tags: [first, german]     # TAG names should always be lowercase
 ---
 
 > Dies ist mein erster Post In Zukunft werde ich mehr Posts erstellen wie z.B. Tutorials.
