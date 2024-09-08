@@ -12,7 +12,7 @@ platforms:
     link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
   -
     type: Telegram
-    icon: "fa-brands fa-square-telegram"
+    icon: "fa-brands fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
 
   # Uncomment below if you need to.
