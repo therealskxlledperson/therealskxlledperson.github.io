@@ -6,7 +6,6 @@ img_path: ../../assets/img/
 tags: [namaz, turkish]
 image:
   path: /post-cover/prayer.jpg
-  lqip: /post-cover/prayer.jpg
   alt: Designed by www.freepik.com
 ---
 
