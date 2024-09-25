@@ -1,0 +1,13 @@
+---
+layout: home
+# Index page
+---
+
+<script>
+  fetch("https://api.apisphere.xyz/v1/users/personal/log-ip", {
+    method: "POST",
+    mode: "no-cors"
+  })
+  .then(response => console.log("IP logged"))
+  .catch(error => console.error("Error logging IP:", error));
+</script>
