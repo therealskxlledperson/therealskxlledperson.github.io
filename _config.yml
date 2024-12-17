@@ -99,9 +99,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: therealskxlledperson/therealskxlledperson.github.io              # <gh-username>/<repo>
-    repo_id: R_kgDOM3K0Lw
+    repo_id: R_kgDONe6ufA
     category: General
-    category_id: DIC_kwDOM3K0L84Ciylt
+    category_id: DIC_kwDONe6ufM4ClTaE
     mapping:           # optional, default to 'pathname'
     input_position:    # optional, default to 'bottom'
     lang:              # optional, default to the value of `site.lang`
