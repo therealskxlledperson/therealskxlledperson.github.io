@@ -6,7 +6,7 @@ order: 4
 ## Über Mich
 *Ich bin nicht gut in sowas aber ich versuchs mal sonst ist dieser Bereich leer :)*\
 Mein Name ist Bekir und ich bin aktuell 21 Jahre alt. In meiner Freizeit programmiere ich entweder, oder ich beschäftige mich mit Autos (schon lustig und auch klischeehaft, dass die meisten Jungs Autos mögen ;)). Speedcubing gehört neuerdings seit ein paar Jahren auch zu meinen Hobbys. Früher habe ich auch gerne gezeichnet (hauptsächlich Autos, oder Comic-Figuren), aber dieses Hobby habe ich irgendwann aufgegeben (Comics lese ich aber immernoch 🙂). Vor 1-2 Jahren war Ethical-Hacking noch etwas was mich interessiert hatte, aber aktuell liegt mir das Programmieren mehr, ich halte mich aber dennoch auf dem Laufenden was so in der Szene los ist.
-Kommen wir zu meinen persönlichen Stärken und Schwächen :)
+Kommen wir nun zu meinen persönlichen Stärken und Schwächen :)
 
 ### Stärken
 1. Ehrlichkeit
@@ -32,4 +32,4 @@ So viel zu mir :) Solltest du Fragen, oder sogar Feedback haben, dann würde ich
 [^1]: Siehe Info Post, oder klicke auf den zweiten Button unten auf der Navbar.
 
 <sub>Created: Mon, Dec, 16, 2024 11:04 PM<br>
-Last edited: Tue, Dec, 17, 2024 1:59 PM<sub>
+Last edited: Tue, Dec, 18, 2024 3:00 PM<sub>
